@@ -1,0 +1,1 @@
+<img src="{{ asset('images/Logo_undiksha.png') }}" {{ $attributes->merge(['class' => 'h-9 w-auto']) }} alt="Logo UKM Musik">
